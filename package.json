@@ -1,0 +1,26 @@
+{
+  "name": "delegate-docs",
+  "version": "1.0.0",
+  "description": "A jsdoc plugin that supports factory functions and delegate objects; 'classes', 'constructors', 'inheritance', and all other specious JavaScript terms are not supported.",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosbymc/delegate-docs.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "documentation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mosbymc/delegate-docs/issues"
+  },
+  "homepage": "https://github.com/mosbymc/delegate-docs#readme",
+  "devDependencies": {
+    "jsdoc": "^3.5.4"
+  }
+}
